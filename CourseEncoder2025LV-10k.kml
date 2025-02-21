@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <Schema name="CourseData" id="courseDataSchema">
+      <SimpleField type="float" name="distance"/>
+      <SimpleField type="string" name="segmentID"/>
+      <SimpleField type="string" name="direction"/>
+      <SimpleField type="float" name="bearing"/>
+      <SimpleField type="float" name="grade"/>
+    </Schema>
+    <Placemark>
+      <name>Course LineString</name>
+      <LineString>
+        <coordinates>-115.1731166,36.1014465,0 -115.1731265,36.1010452,0 -115.1731315,36.1003972,0 -115.1731495,36.0995382,0 -115.1731125,36.0988462,0 -115.1731025,36.0984052,0 -115.1730995,36.0979352,0 -115.1730965,36.0974662,0 -115.1731265,36.0970082,0 -115.1731025,36.0965412,0 -115.1730835,36.0960932,0 -115.1730885,36.0956912,0 -115.1730835,36.0952632,0 -115.1730995,36.0948292,0 -115.1730945,36.0943482,0 -115.1730725,36.0937972,0 -115.1730515,36.0932502,0 -115.1730355,36.0926832,0 -115.1730325,36.0921162,0 -115.1730295,36.0915492,0 -115.1730275,36.0909802,0 -115.1730245,36.0904112,0 -115.1730215,36.0898422,0 -115.1730295,36.0892542,0 -115.1730375,36.0886652,0 -115.1730455,36.0880772,0 -115.1730535,36.0874882,0 -115.1730615,36.0869002,0 -115.1730695,36.0863112,0 -115.1730165,36.0857622,0 -115.1729945,36.0852562,0 -115.1729735,36.0847502,0 -115.1729605,36.0842482,0 -115.1729465,36.0837462,0 -115.1729335,36.0832442,0 -115.1729195,36.0827432,0 -115.1729175,36.0822362,0 -115.1729095,36.0817302,0 -115.1729015,36.0812242,0 -115.1728925,36.0807182,0 -115.1728845,36.0802122,0 -115.1728765,36.0797062,0 -115.1728715,36.0792042,0 -115.1728665,36.0787022,0 -115.1728605,36.0782002,0 -115.1728505,36.0777332,0 -115.1728175,36.0773002,0 -115.1727915,36.0768312,0 -115.1727615,36.0763732,0 -115.1727405,36.0758792,0 -115.1727155,36.0753712,0 -115.1727215,36.0748782,0 -115.1726675,36.0746972,0 -115.1726225,36.0746442,0 -115.1725685,36.0746452,0 -115.1725365,36.0746872,0 -115.1725065,36.0747292,0 -115.1724935,36.0747892,0 -115.1724665,36.0748722,0 -115.1724715,36.0752352,0 -115.1724825,36.0759952,0 -115.1724825,36.0765572,0 -115.1724925,36.0770262,0 -115.1725035,36.0774952,0 -115.1725095,36.0779782,0 -115.1725145,36.0784602,0 -115.1725195,36.0789422,0 -115.1725435,36.0794292,0 -115.1725515,36.0799182,0 -115.1725605,36.0804072,0 -115.1725705,36.0808952,0 -115.1725815,36.0813842,0 -115.1725925,36.0818732,0 -115.1726025,36.0823622,0 -115.1726135,36.0828512,0 -115.1726245,36.0833402,0 -115.1726355,36.0838282,0 -115.1726595,36.0843172,0 -115.1726675,36.0849402,0 -115.1726535,36.0853452,0 -115.1726615,36.0858592,0 -115.1726615,36.0863792,0 -115.1726885,36.0869082,0 -115.1727045,36.0874472,0 -115.1727155,36.0879862,0 -115.1727185,36.0885012,0 -115.1727105,36.0890172,0 -115.1727045,36.0895372,0 -115.1726965,36.0900562,0 -115.1727155,36.0906222,0 -115.1727125,36.0911262,0 -115.1727235,36.0916412,0 -115.1727315,36.0921542,0 -115.1727425,36.0926662,0 -115.1727535,36.0931812,0 -115.1727665,36.0936962,0 -115.1727795,36.0942112,0 -115.1727825,36.0947342,0 -115.1727825,36.0952732,0 -115.1728065,36.0958502,0 -115.1727965,36.0964282,0 -115.1727965,36.0969922,0 -115.1727965,36.0975572,0 -115.1727965,36.0979312,0 -115.1728015,36.0983502,0 -115.1728065,36.0987702,0 -115.1728125,36.0991892,0 -115.1728065,36.0997172,0 -115.1728045,36.1002882,0 -115.1728095,36.1008832,0 -115.1727825,36.1014282,0 -115.1727555,36.1019992,0 -115.1727505,36.1025392,0 -115.1727585,36.1030762,0 -115.1727505,36.1036012,0 -115.1727635,36.1041832,0 -115.1727635,36.1046722,0 -115.1727665,36.1052042,0 -115.1727635,36.1057882,0 -115.1727635,36.1063352,0 -115.1727695,36.1068602,0 -115.1727695,36.1073772,0 -115.1727695,36.1078942,0 -115.1727695,36.1084112,0 -115.1727745,36.1089672,0 -115.1727745,36.1093642,0 -115.1727795,36.1098292,0 -115.1727885,36.1102962,0 -115.1727985,36.1108482,0 -115.1728065,36.1112842,0 -115.1728125,36.1117322,0 -115.1727935,36.1122702,0 -115.1727885,36.1128092,0 -115.1727825,36.1133472,0 -115.1727505,36.1138942,0 -115.1727555,36.1144242,0 -115.1727455,36.1149802,0 -115.1727395,36.1155532,0 -115.1727585,36.1161172,0 -115.1727635,36.1166842,0 -115.1727905,36.1172512,0 -115.1727615,36.1178092,0 -115.1727125,36.1183382,0 -115.1726405,36.1188962,0 -115.1725275,36.1193962,0 -115.1723995,36.1198782,0 -115.1722515,36.1203682,0 -115.1720345,36.1209092,0 -115.1718095,36.1214732,0 -115.1714815,36.1220312,0 -115.1711065,36.1225832,0 -115.1707795,36.1231152,0 -115.1703655,36.1236732,0 -115.1700525,36.1242372,0 -115.1697975,36.1247362,0 -115.1696255,36.1250342,0 -115.1693379,36.1254018,0 -115.1693463,36.1255345,0 -115.1694535,36.1254387,0 -115.1695285,36.1253062,0 -115.1696255,36.1251592,0 -115.1698015,36.1249202,0 -115.1699975,36.1245742,0 -115.1702655,36.1241622,0 -115.1705575,36.1236992,0 -115.1708745,36.1232392,0 -115.1711205,36.1228812,0 -115.1714745,36.1223822,0 -115.1718065,36.1218502,0 -115.1720585,36.1213162,0 -115.1722495,36.1207972,0 -115.1724315,36.1202612,0 -115.1726305,36.1196962,0 -115.1727855,36.1191082,0 -115.1728825,36.1184922,0 -115.1729355,36.1178652,0 -115.1729785,36.1172462,0 -115.1729975,36.1166622,0 -115.1729895,36.1160852,0 -115.1729685,36.1155112,0 -115.1729575,36.1148732,0 -115.1729595,36.1143052,0 -115.1729952,36.1140222,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>0.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">0.000</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-179.2124111121002</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-179.2124111121002</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1731166,36.1014465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">0.200</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">178.7579700959396</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">178.7579700959396</SimpleData>
+          <SimpleData name="isTurnaround">true</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17314719797186,36.09964805894594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">0.400</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">179.61481165455487</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.61481165455487</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1730989560369,36.097850160849816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">0.600</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-179.82606294764645</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-179.82606294764645</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1730840020697,36.09605283378336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">0.800</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">178.5465041622661</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">178.5465041622661</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17309075832692,36.094254488642825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">1.000</SimpleData>
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">179.78119648665142</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.78119648665142</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17303430051578,36.09245649846225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">1.200</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-179.76668663198828</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-179.76668663198828</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17302580054607,36.0906578712482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">1.400</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-179.37053141823338</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-179.37053141823338</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17303486371786,36.08885929724801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">1.600</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">178.33892267843714</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">178.33892267843714</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1730593154532,36.08706076506391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">1.800</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">178.5684847373095</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">178.5684847373095</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17299484543692,36.08526414509965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">2.000</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">179.20869967455812</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.20869967455812</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17293924620067,36.083466092539545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">2.200</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">179.24218172626243</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.24218172626243</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1729085114905,36.08166767712701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">2.400</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">179.45028633490816</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.45028633490816</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17287907697188,36.07986919418284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">2.600</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">177.41283651411433</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">177.41283651411433</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17285772572924,36.078070642112216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">2.800</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">172.4121561316416</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">172.4121561316416</SimpleData>
+          <SimpleData name="isTurnaround">true</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17275728480224,36.07627404298865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">3.000</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">0.5630281423365755</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.5630281423365755</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17250432462099,36.07473924021727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">3.200</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-0.7898361680222534</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.7898361680222534</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1724825,36.07653422524673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">3.400</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-1.0875377255593093</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-1.0875377255593093</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17251317712349,36.07833267528031,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">3.600</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-0.9843085000502912</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.9843085000502912</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17255541364618,36.08013084219125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">3.800</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-1.0191568478725368</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-1.0191568478725368</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1725936455187,36.08192921617274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">4.000</SimpleData>
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-0.5942347163236233</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.5942347163236233</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1726332317325,36.08372757190162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">4.200</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-1.1464106168960255</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-1.1464106168960255</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17265630785754,36.085525605612524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">4.400</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.21771389893931942</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.21771389893931942</SimpleData>
+          <SimpleData name="isTurnaround">true</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17270083246702,36.08732365063489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">4.600</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.11418424059437929</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.11418424059437929</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17270928925532,36.08912213175742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">4.800</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.769748187464204</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.769748187464204</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17271372439441,36.09092050252061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">5.000</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.9686543025831456</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.9686543025831456</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1727436264452,36.092718938426636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">5.200</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.44262726789616563</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.44262726789616563</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17278125578542,36.094517292771286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">5.400</SimpleData>
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">-0.006041991393872686</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.006041991393872686</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1727984488023,36.09631555989466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">5.600</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.1835639144146821</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.1835639144146821</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17279868353891,36.09811418111007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">5.800</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">0.9441825836114262</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.9441825836114262</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17280581509833,36.099912740351286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">6.000</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">0.44369650747188094</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.44369650747188094</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1727691408036,36.101710723302126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">6.200</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.3620026607188222</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.3620026607188222</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17275190394295,36.10350906675273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">6.400</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.0908799319099035</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.0908799319099035</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17276596884238,36.1053075993165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">6.600</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.11424672610074701</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.11424672610074701</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1727695,36.1071062135256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">6.800</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.5645664411097717</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.5645664411097717</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17277393921613,36.10890484122493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">7.000</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">0.11642998654298789</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.11642998654298789</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17279587611968,36.11070336255765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">7.200</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">0.953115759162503</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.953115759162503</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17279135262223,36.11250168823217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">7.400</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">-0.09082800162003733</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-0.09082800162003733</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17275432524102,36.11429967619219,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">7.600</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">0.1119573578933228</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">0.1119573578933228</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17275785427866,36.11609803240415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">7.800</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">7.756749792818327</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">7.756749792818327</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17275350632872,36.11789549951053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">8.000</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">16.062751200549076</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">16.062751200549076</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17245339107828,36.11967526714626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">8.200</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">26.529163773255785</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">26.529163773255785</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17183780057304,36.12140226036559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">8.400</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">26.352872915125054</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">26.352872915125054</SimpleData>
+          <SimpleData name="isTurnaround">true</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.1708440290518,36.123010217596885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">8.600</SimpleData>
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="bearing">5.032455495645382</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">5.032455495645382</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.16985749752288,36.124618793702055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">8.800</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-152.67969662224513</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-152.67969662224513</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.16983015233403,36.1248696200696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">9.000</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-152.28937436437653</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-152.28937436437653</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17085178578193,36.123272160902054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.200 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">9.200</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-163.00034464875307</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-163.00034464875307</SimpleData>
+          <SimpleData name="isTurnaround">true</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17188612638884,36.121681468732355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.400 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">9.400</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-170.38375637667</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-170.38375637667</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17253668451016,36.11996256161572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.600 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">9.600</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">-177.78422311504212</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">-177.78422311504212</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17290776309599,36.1181933340596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.800 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">9.800</SimpleData>
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="bearing">179.0902097918748</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="heading">179.0902097918748</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17299381817718,36.116396649581226,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10.000 KM</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="distance">10.000</SimpleData>
+          <SimpleData name="segmentID">10.000-10.000_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="bearing">0</SimpleData>
+          <SimpleData name="elevation">0</SimpleData>
+          <SimpleData name="grade">0</SimpleData>
+          <SimpleData name="isTurnaround">false</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17295846781342,36.114598342014716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.200 KM Calculated Turnaround</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="segmentID">0.000-1.200_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="isCalculatedTurnaround">true</SimpleData>
+          <SimpleData name="curvature">2.6</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17314719797186,36.09964805894594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.800 KM Calculated Turnaround</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="segmentID">1.200-4.200_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="isCalculatedTurnaround">true</SimpleData>
+          <SimpleData name="curvature">133.33</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17250432462099,36.07473924021727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.400 KM Calculated Turnaround</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="segmentID">4.200-5.400_straight</SimpleData>
+          <SimpleData name="direction">straight</SimpleData>
+          <SimpleData name="isCalculatedTurnaround">true</SimpleData>
+          <SimpleData name="curvature">2.12</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17266383049729,36.086424860764694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.400 KM Calculated Turnaround</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="segmentID">5.600-8.800_outbound</SimpleData>
+          <SimpleData name="direction">forward</SimpleData>
+          <SimpleData name="isCalculatedTurnaround">true</SimpleData>
+          <SimpleData name="curvature">6.29</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17183780057304,36.12140226036559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.200 KM Calculated Turnaround</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#courseDataSchema">
+          <SimpleData name="segmentID">8.800-10.000_inbound</SimpleData>
+          <SimpleData name="direction">reverse</SimpleData>
+          <SimpleData name="isCalculatedTurnaround">true</SimpleData>
+          <SimpleData name="curvature">4.09</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>-115.17188612638884,36.121681468732355,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
